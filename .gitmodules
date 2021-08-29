@@ -1,0 +1,3 @@
+[submodule "sop-checklist"]
+	path = sop-checklist
+	url = git@github.com:L1nwatch/sop-checklist.git
