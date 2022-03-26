@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-26T08:20:57.904Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36" etag="Nb2LETv2uyVJEwwYWv5y" version="17.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-26T08:29:19.307Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36" etag="fnOuFzAIOewWRktYuNLu" version="17.2.4" type="github">
   <diagram id="b0o3LMLqGVsqhxNz8bDR" name="Page-1">
     <mxGraphModel dx="1018" dy="659" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#D4E1F5" math="0" shadow="0">
       <root>
@@ -48,8 +48,14 @@
         <mxCell id="-bExadw3Cc1Cx56n1sEL-24" value="更新记录笔记" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="201" y="284.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-bExadw3Cc1Cx56n1sEL-26" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="-bExadw3Cc1Cx56n1sEL-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-bExadw3Cc1Cx56n1sEL-26" target="-bExadw3Cc1Cx56n1sEL-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-bExadw3Cc1Cx56n1sEL-26" value="自动同步到其他平台&lt;br&gt;搜索引擎等" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="376" y="284.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-bExadw3Cc1Cx56n1sEL-28" value="其他平台&lt;br&gt;可以查阅内容" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="576" y="284.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
