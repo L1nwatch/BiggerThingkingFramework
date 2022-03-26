@@ -1,11 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2022-03-26T08:06:00.767Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36" etag="-0qzXxxInK1witxVqFPV" version="17.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-26T08:08:46.154Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36" etag="OjRO084U7UMCiwu03vXr" version="17.2.4" type="github">
   <diagram id="b0o3LMLqGVsqhxNz8bDR" name="Page-1">
-    <mxGraphModel dx="1018" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1018" dy="659" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#D4E1F5" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="CXiAppQcW8zjeAKwW5yS-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="90" y="50" width="120" height="60" as="geometry" />
+        <mxCell id="-bExadw3Cc1Cx56n1sEL-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-bExadw3Cc1Cx56n1sEL-2" target="-bExadw3Cc1Cx56n1sEL-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-bExadw3Cc1Cx56n1sEL-2" value="触发器|Triggers" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="59" y="39" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-bExadw3Cc1Cx56n1sEL-5" value="打开 Notion" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="59" y="179" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
