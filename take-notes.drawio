@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-26T08:29:19.307Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36" etag="fnOuFzAIOewWRktYuNLu" version="17.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-26T08:35:34.520Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36" etag="OBfRZSlzuEkTfQXb1zUz" version="17.2.4" type="github">
   <diagram id="b0o3LMLqGVsqhxNz8bDR" name="Page-1">
     <mxGraphModel dx="1018" dy="659" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#D4E1F5" math="0" shadow="0">
       <root>
@@ -51,11 +51,23 @@
         <mxCell id="-bExadw3Cc1Cx56n1sEL-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-bExadw3Cc1Cx56n1sEL-26" target="-bExadw3Cc1Cx56n1sEL-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-bExadw3Cc1Cx56n1sEL-26" value="自动同步到其他平台&lt;br&gt;搜索引擎等" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="-bExadw3Cc1Cx56n1sEL-26" value="同步服务" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="376" y="284.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-bExadw3Cc1Cx56n1sEL-28" value="其他平台&lt;br&gt;可以查阅内容" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="576" y="284.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-bExadw3Cc1Cx56n1sEL-30" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="429" y="204" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="-bExadw3Cc1Cx56n1sEL-31" value="automate.io" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="432" y="201" width="81" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="-bExadw3Cc1Cx56n1sEL-32" value="Notion 自带的同步" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="362" y="201" width="63" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="-bExadw3Cc1Cx56n1sEL-33" value="Zapier" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="150" width="81" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
